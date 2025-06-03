@@ -1,0 +1,1 @@
+web: gunicorn wms_project.wsgi:application 
