@@ -3,4 +3,4 @@ python-dotenv>=1.0.0
 whitenoise>=6.6.0
 gunicorn>=21.2.0
 crispy_forms
-crispy_bootstrap4>=2024.2
+crispy_bootstrap4
